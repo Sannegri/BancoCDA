@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Starmans_Banking_System.Classes.Banking
+namespace BancoCDA.Classes.Banking
 {
     public class Bank
     {

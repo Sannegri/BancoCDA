@@ -1,4 +1,4 @@
-﻿namespace Starmans_Banking_System.Classes.Banking
+﻿namespace BancoCDA.Classes.Banking
 {
     public enum TransactionType
     {

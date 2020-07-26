@@ -2,11 +2,11 @@
 using Newtonsoft.Json.Converters;
 using System.Collections.Generic;
 
-namespace Starmans_Banking_System.Classes.Banking
+namespace BancoCDA.Classes.Banking
 {
     public class BankAccount
     {
-        // Define all variables that make a bank account
+        // Define todas as variaveis que cria a conta do banco
         [JsonConverter(typeof(StringEnumConverter))]
         public AccountOwner owner { get; set; }
         public Bank bank { get; set; }

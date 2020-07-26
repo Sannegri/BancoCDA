@@ -1,6 +1,5 @@
-﻿namespace Starmans_Banking_System.Classes.Banking
+﻿namespace BancoCDA.Classes.Banking
 {
-    // Create an enum with each type of bank
     public enum BankType
     {
         pacificStandard = 1,

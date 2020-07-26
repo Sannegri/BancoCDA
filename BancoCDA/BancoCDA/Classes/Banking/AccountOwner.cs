@@ -1,6 +1,6 @@
-﻿namespace Starmans_Banking_System.Classes.Banking
+﻿namespace BancoCDA.Classes.Banking
 {
-    // Create an enum with each possible owner for an account
+    // Cria as contas
     public enum AccountOwner
     {
         franklin = 1,
